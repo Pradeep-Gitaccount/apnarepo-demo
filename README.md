@@ -1,4 +1,4 @@
 # apnarepo-demo
 This is my first Git Repository
 <br>
-Author - Pradeep
+Author - Pradeep (apna git project)
